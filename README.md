@@ -6,7 +6,7 @@ Passive Versus Active Recon
 <img width="1572" height="493" alt="Screenshot 2025-09-10 121358" src="https://github.com/user-attachments/assets/55393391-76ae-48f3-b346-593de9373243" />
 
 Whois
-<img width="1572" height="493" alt="Screenshot 2025-09-10 121358" src="https://github.com/user-attachments/assets/d6bda323-675a-4fcf-9651-ce20eb2ed0d3" />
+<img width="1560" height="440" alt="Screenshot 2025-09-10 121604" src="https://github.com/user-attachments/assets/49cfd860-5033-4e59-ad30-1a2b9506ed88" />
 
 nslookup and dig
 <img width="1571" height="178" alt="Screenshot 2025-09-10 121644" src="https://github.com/user-attachments/assets/ebf4f843-c18c-4d3a-987d-58fea1f49968" />
